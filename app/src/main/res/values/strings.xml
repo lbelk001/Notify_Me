@@ -9,4 +9,9 @@
     <string name="update">Update Notification</string>
     <string name="notification_title">You\'ve been notified!</string>
     <string name="notification_text">This is your notification text.</string>
+    <string name="first_line">First Line</string>
+    <string name="second_line">Second Line</string>
+    <string name="third_line">Third Line</string>
+    <string name="title" />
+    <string name="summary">More Info</string>
 </resources>
